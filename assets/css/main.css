@@ -2600,6 +2600,15 @@ input[type="radio"] + label:before {
   width: 100%;
 }
 
+.tekst {
+  text-align: left;
+}
+
+.billede {
+  display: flex;
+  align-items: center;
+}
+
 /* List */
 
 ol {
