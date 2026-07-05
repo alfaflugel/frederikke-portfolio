@@ -3994,3 +3994,17 @@ body.is-ie #wrapper > section > .content > section {
   box-sizing: border-box;
   border-radius: 8px;
 }
+.gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.gallery a {
+  width: 100%;
+}
+
+.gallery img {
+  width: 100%;
+  display: block;
+}
