@@ -3990,6 +3990,7 @@ body.is-ie #wrapper > section > .content > section {
 }
 
 .gallery img {
-  border: 2px solid #d4e9c7;
+  border: 1px solid #d4e9c7;
   box-sizing: border-box;
+  border-radius: 8px;
 }
